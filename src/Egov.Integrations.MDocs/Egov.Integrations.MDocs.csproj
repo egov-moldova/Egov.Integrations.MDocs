@@ -33,7 +33,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="Egov.Extensions.Configuration" Version="10.0.4" />
+	  <PackageReference Include="Egov.Extensions.Configuration" Version="10.0.5" />
 	</ItemGroup>
 
     <ItemGroup>
